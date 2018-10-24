@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c00ec095-6cc6-47cf-bc1d-37e229fe51d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/api_auto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_auto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_demo/post_request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testa.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_demo/json_request.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_todo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_todo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../appnium/test_todolist/test_todo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -70,8 +75,8 @@
         <option value="$PROJECT_DIR$/request_demo/post_request.py" />
         <option value="$PROJECT_DIR$/request_demo/help_demo.py" />
         <option value="$PROJECT_DIR$/request_demo/get_request.py" />
-        <option value="$PROJECT_DIR$/run_main.py" />
         <option value="$PROJECT_DIR$/../appnium/test_todolist/test_runner.py" />
+        <option value="$PROJECT_DIR$/run_main.py" />
       </list>
     </option>
   </component>
@@ -95,12 +100,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="api_auto" type="b2602c69:ProjectViewProjectNode" />
               <item name="api_auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="api_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="api_auto" type="b2602c69:ProjectViewProjectNode" />
@@ -115,7 +136,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,7 +316,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44122383" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20121029" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.12178517" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -312,27 +332,27 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37299034" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14901665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37299034" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,12 +370,23 @@
     <entry file="file://$PROJECT_DIR$/../appnium/test_todolist/test_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../appnium/test_report/20181023 230823_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../appnium/test_todolist/test_todo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../appnium/test_todolist/test_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/request_demo/json_request.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -368,9 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,9 +416,6 @@
           <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../web_python_auto/testsuites/test_baidu_search.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/request_demo/help_demo.py" />
     <entry file="file://$PROJECT_DIR$/../appnium/pageobject/common.py">
@@ -421,13 +446,6 @@
         <state relative-caret-position="-270" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../appnium/test_todolist/test_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -439,9 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -449,6 +464,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
         </state>
       </provider>
     </entry>

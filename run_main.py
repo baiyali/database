@@ -28,12 +28,12 @@ def add_case(caseName='case',rule='test*.py'):
 
 def run_case(all_case,reportName='report'):
     #执行所有的用例，并把所有的结果写入HTML测试报告
-    now = time.strftime('%Y-%m-%d-%H-%M-%S')
+    #now = time.strftime('%Y-%m-%d-%H-%M-%S')
     #用例文件夹
     report_path = os.path.join(cur_path,reportName)
     #如果不存在就自动创建一个
     if not os.path.exists(report_path):os.mkdir(report_path)
-    report_abspath = os.path.join(report_path,now+'result.html')
+    report_abspath = os.path.join(report_path,'result.html')#+now
     print('report path:%s'%report_abspath)
     fp = open(report_abspath,'wb')
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp,title=u'自动化测试报告，测试结果如下：',description=u'用例执行情况')
