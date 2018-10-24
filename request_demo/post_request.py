@@ -31,7 +31,7 @@ class Test_login(unittest.TestCase):
         print(json_data)
 
         # 断言：测试结果与期望结果对比
-        self.assertEqual('2',json_data['msg'])
+        self.assertEqual('2',json_data['msg'])#'msg':'2'
 
 if __name__=='__main__':
     unittest.main()
